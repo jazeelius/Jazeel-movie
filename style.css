@@ -151,7 +151,7 @@ body{
     text-align: justify;
 }
 .section-3{
-    background-image: url('../img/cap-america-image.jpg');
+    background-image: url('cap-america-image.jpg');
     height: 300px;
     background-repeat: no-repeat;
     background-size: cover;
